@@ -1,3 +1,4 @@
 ### Hi there 👋
-- 🔭 I’m currently working on ... unemployed
-- 🌱 I’m currently learning ... Everything i could
+🔭 I’m currently working on ...Technical paper and report writing.
+🌱 I’m currently learning ... GIS and remote sensing along with GeoAI
+
